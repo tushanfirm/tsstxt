@@ -4,7 +4,7 @@ ul li{list-style:none outside none;}
 a{color: #333;text-decoration:none;}
 a:hover { top:-1px;}
 .clear{clear:both;}
-.header_logo a,.ywtop_sethome,.ywtop_addfavorite,.frii .int,.reader_mark0 a,.reader_mark1 a,#fmimg span{background:url(../images/all.gif) no-repeat scroll 0 0 transparent;}
+.header_logo a,.ywtop_sethome,.ywtop_addfavorite,.frii .int,.reader_mark0 a,.reader_mark1 a,#fmimg span{background:url(https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/all.gif) no-repeat scroll 0 0 transparent;}
 .ywtop{background-color: #EA6161;border-bottom: 1px solid #4E4141;color: #333;height:32px;min-width:950px;width:100%;}
 .ywtop_con{line-height:32px;vertical-align:middle;width:980px;margin:0 auto;}
 .ywtop_sethome{background-position:0 8px;display:inline;float:left;margin-right:20px;}
@@ -38,7 +38,7 @@ a:hover { top:-1px;}
 #xx_search button{background:none repeat scroll 0 0 #DDD;cursor:pointer;font-size:14px;height:32px;width:95px;}
 .userpanel{border:0px dotted #88C6E5;color:#9E9E9E;float:right;text-align:center;width:220px;padding:15px 3px;}
 .userpanel a{color:#9E9E9E;line-height:200%;}
-.nav{height:46px;overflow:hidden;width:1020px;margin:10px auto auto;background: url( /Public/biquge/images/ppeishi.png) 98% 0 no-repeat;}
+.nav{height:46px;overflow:hidden;width:1020px;margin:10px auto auto;background: url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/ppeishi.png) 98% 0 no-repeat;}
 .nav ul li{float:left;line-height:46px;}
 .nav ul li a{color:#FFF;font-size:16px;font-weight:700;padding:0 12px;font-family: PingFangSC-Regular,'-apple-system',Simsun;margin-left: 10px;}
 #admin{ border:solid 2px #E1ECED; height:30px; line-height:30px; width:88%; text-align:center; margin:5px; padding:3px;}
@@ -252,7 +252,7 @@ table.grid td { background-color: #FFFFFF !important; border: 1px solid #C3DFEA;
 .yTD_L { border-top: #efeaaa 1px solid; border-left: #efeaaa 1px solid; width: 30px; line-height: 12px; height: 12px; }
 .yTD_R { border-right: #efeaaa 1px solid; border-top: #efeaaa 1px solid; width: 30px; line-height: 12px; height: 12px; }
 .ybg { background: #faf1d4; }
-.mTB { border: #ebebeb 1px solid; padding: 0 5px; background-image: url(../images/mbg.gif); width: 180px; height: 24px; }
+.mTB { border: #ebebeb 1px solid; padding: 0 5px; background-image: url(https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/mbg.gif); width: 180px; height: 24px; }
 .mTD { border-right: #ebebeb 1px solid; border-left: #ebebeb 1px solid; padding-top: 8px; border-bottom: #ebebeb 1px solid; }
 .mTD_L { border-top: #ebebeb 1px solid; border-left: #ebebeb 1px solid; width: 30px; line-height: 12px; height: 12px; }
 .mTD_R { border-right: #ebebeb 1px solid; border-top: #ebebeb 1px solid; width: 30px; line-height: 12px; height: 12px; }
@@ -276,7 +276,7 @@ A.tsn { float: left; overflow: hidden; width: 90px; word-break: keep-all; line-h
 #ft { clear: both; border-top: #f9f9f9 1px solid; margin: 10px; line-height: 20px; padding-top: 20px; text-align: center; }
 #ft { font-size: 12px; color: #77c; font-family: Arial; white-space: nowrap; }
 #ft { font-size: 12px; color: #77c; font-family: Arial; white-space: nowrap; }
-.title_P { border: #cccccc 1px solid; font-weight: 900; font-size: 14px; z-index: 99; background: url(../images/ter.gif) #fff no-repeat 8px center; left: 20px; padding-bottom: 3px; vertical-align: middle; width: 136px; padding: 5px 0 3px 30px; position: absolute; top: 205px; height: 19px; text-decoration: none; }
+.title_P { border: #cccccc 1px solid; font-weight: 900; font-size: 14px; z-index: 99; background: url(https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/ter.gif) #fff no-repeat 8px center; left: 20px; padding-bottom: 3px; vertical-align: middle; width: 136px; padding: 5px 0 3px 30px; position: absolute; top: 205px; height: 19px; text-decoration: none; }
 A.p14 { font-size: 14px; line-height: 22px; }
 .STYLE1 { font-weight: bold; }
 .ck1 { font-weight: bold; }
@@ -558,7 +558,7 @@ display: inline;
 	height: 32px;
 	line-height: 30px;
 	text-indent: 34px;
-	background: url(../images/ssk.png) no-repeat -1px 1px;
+	background: url(https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/ssk.png) no-repeat -1px 1px;
 	float: left;
 	font-size: 16px;
 	font-weight: normal;
@@ -720,7 +720,7 @@ img{display: block;}
 .icon-edit_rec {
   width: 45px;
   height: 25px;
-  background-image: url( /Public/biquge/images/c/niushu.png);
+  background-image: url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/c/niushu.png);
   background-position: 0 0;
 }
 .icon {
@@ -749,7 +749,7 @@ img{display: block;}
 .icon-fsg {
   width: 45px;
   height: 25px;
-  background-image:  url( /Public/biquge/images/c/niushu.png);
+  background-image:  url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/c/niushu.png);
   background-position: 0 0;
 }
 
@@ -834,7 +834,7 @@ img{display: block;}
   float: left;
   width: 178px;
   margin-right: -28px;
-  background: url( /Public/biquge/images/c/shuben.png) no-repeat 33px 1px
+  background: url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/c/shuben.png) no-repeat 33px 1px
 }
 .channel-focus li {
   position: relative;
@@ -848,7 +848,7 @@ img{display: block;}
   width: 159px;
   height: 8px;
   margin-left: -78px;
-  background: url( /Public/biquge/images/c/shuxian.png) no-repeat
+  background: url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/c/shuxian.png) no-repeat
 }
 
 .channel-focus li .book-shadow {
@@ -910,7 +910,7 @@ img{display: block;}
   height: 86px;
   margin-top: 3px;
   margin-right: 20px;
-  background: url( /Public/biquge/images/c/kanshula.png) no-repeat
+  background: url( https://cdn.jsdelivr.net/gh/tushanfirm/tsstxt@1.0/Public/biquge/images/c/kanshula.png) no-repeat
 }
 
 .channel-focus.big-mode .new-wrap ul {
@@ -1436,3 +1436,6 @@ height: 30px
 }
 
 
+×
+拖拽到此处
+图片将完成下载
